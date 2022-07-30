@@ -1,6 +1,4 @@
 - Hi, I’m @KamranNiroomand
-- I’m interested in predicting air quality with machine learning alghoritms
-- I’m looking to collaborate on interdiscplinary projects in computer science and environment
 - Reach me at kamran.niiroomand@gmail.com
 
 <!---
